@@ -1,13 +1,13 @@
 {
-  "name": "poyii/laravel-ifx",
-  "description": "Informix DB driver for Laravel 5",
+  "name": "yongj/laravel-ifx",
+  "description": "Informix DB driver for Laravel 5. Forked from poly/laravel-ifx",
   "keywords": ["informix", "laravel", "laravel 5", "ifx" ],
   "license": "MIT",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "authors": [
     {
-      "name": "llaiayumi",
-      "email": "872833541@qq.com"
+      "name": "Yong K. Jun",
+      "email": "yong@jjonbp.com"
     }
   ],
   "require": {
