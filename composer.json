@@ -1,5 +1,5 @@
 {
-  "name": "yongj/laravel-ifx",
+  "name": "jyk20000/laravel-ifx",
   "description": "Informix DB driver for Laravel 5. Forked from poly/laravel-ifx",
   "keywords": ["informix", "laravel", "laravel 5", "ifx" ],
   "license": "MIT",
