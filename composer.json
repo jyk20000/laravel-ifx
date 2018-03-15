@@ -12,9 +12,9 @@
   ],
   "require": {
     "php": ">=5.5.31",
-    "illuminate/support": "5.2.*",
-    "illuminate/database": "5.2.*",
-    "illuminate/pagination": "5.2.*"
+    "illuminate/support": "5.*",
+    "illuminate/database": "5.*",
+    "illuminate/pagination": "5.*"
   },
   "require-dev": {
     "fzaninotto/faker": "~1.4",
